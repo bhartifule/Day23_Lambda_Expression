@@ -1,7 +1,8 @@
 package com.bridgelabz.lambdaexpression;
 
 
-	public class UserRegistrationMain extends Exception {
+	public class UserRegistrationMain extends Exception 
+	{
         public ExpectedType type;
 
     public enum ExpectedType{
