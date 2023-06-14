@@ -2,7 +2,8 @@ package com.bridgelabz.lambdaexpression;
 
 import java.util.Scanner;
 
-public class UserRegistration {
+public class UserRegistration
+{
 	 static String userFirstName = "^[A-Z][a-zA-Z]{3,}";
 	    static String userLastName = "^[A-Z][a-zA-Z]{3,}";
 	    static String userEmail = "^[A-Za-z0-9]+(.[A-Za-z0-9]+)*@[^_\\W]+(.[^_\\W]+)?(?=(.[^_\\W]{3,}$|.[a-zA-Z]{2}$)).*$";
